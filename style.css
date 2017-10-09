@@ -1,0 +1,194 @@
+.img_size{
+    width:100%;
+    height:100%;
+}
+.img_size1{
+    height:70px;
+    width: 100%;
+    
+}
+.img_size2{
+    width:80px;
+    height:100%;
+}
+.but{
+    width: 80px;
+    height: 70px;
+}
+.but1{
+    height: 100%;
+}
+
+
+#back{
+    width:100vw;
+    height: 100vh;
+    background-image: url(img/blue.jpg);
+    background-size: cover;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#imgtop{
+    width: 200px;
+    height: 200px;
+    top:100px;
+}
+#tcon{
+    position:fixed;
+    left:78px;
+    right:0px;
+    top: -71px;
+    margin:auto;
+    width:800px;
+    height:15px;
+    transition: 1s;
+}
+#imgt{
+    position: absolute;
+    left: 690px;
+    top: 170px;
+    width: 170px;
+    height: 150px;
+    
+}
+#tup{
+    position:absolute;
+    left:0px;
+    top: 71px;
+}
+#tdown{
+    position:absolute;
+    right:48px;
+    top: 71px;
+}
+#treset{
+    position:absolute;
+    right:400px;
+    top: 71px;
+}
+
+#bcon{
+    position:fixed;
+    left:78px;
+    right:0px;
+    bottom:-14px;
+    margin:auto;
+    width:800px;
+    height:15px; 
+    transition: 1s;
+
+}
+#imgb{
+    position: absolute;
+    left: 690px;
+    bottom: 170px;
+    width: 170px;
+    height: 150px;
+    
+}
+#bup{
+    position:absolute;
+    right:48px;
+    bottom: 15px;
+}
+#bdown{
+    position:absolute;
+    left:0px;
+    bottom: 15px;
+}
+#breset{
+    position:absolute;
+    right:400px;
+    bottom: 15px;
+}
+
+#rcon{
+    position:fixed;
+    right:-82px;
+    bottom:170px;
+    width:82px;
+    height: 539px;
+    transition: 1s;
+}
+#imgr{
+    position: absolute;
+    right: 225px;
+    top: 270px;
+    width: 170px;
+    height: 150px;
+    
+}
+#rup{
+    position: absolute;
+    right:82px;
+    top:0px;
+}
+#rdown{
+    position: absolute;
+    right: 82px;
+    bottom: -103px;
+}
+#rreset{
+    position: absolute;
+    right: 63px;
+    top: 55%;
+    transform: rotate(90deg);
+
+}
+
+#lcon{
+    position:fixed;
+    left:-82px;
+    bottom:170px;
+    height: 539px;
+    width:82px;
+    transition: left 1s;
+}
+#imgl{
+    position: absolute;
+    left: 225px;
+    top: 270px;
+    width: 170px;
+    height: 150px;
+    
+}
+#lup{
+    position: absolute;
+    top: 0px;
+    left: 82px;
+}
+#ldown{
+    position: absolute;
+    bottom: -103px;
+    left: 82px;
+}
+#lreset{
+    position: absolute;
+    left: 62px;
+    top: 55%;
+    transform: rotate(270deg);
+}
+#button1{
+    width:100%;
+    text-align: center;
+}
+#button2{
+    width:100%;
+    height: 82px;
+    text-align: center;
+}
+
+#imgb1{
+    width: 100%;
+    height: 100%;
+}
+#bbutton{
+    width:70%;
+    text-align: center;
+}
+
+
+
+
+
