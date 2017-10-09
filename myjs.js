@@ -65,7 +65,10 @@ document.getElementById("lreset1").addEventListener("click", function(){
     myBox.style.left = "225px";
     imgss.style.height ="100%";
     imgss.style.width ="100%";
-})
+    myTop = 270;
+    myleft = 225;
+    myimg = 100;
+});
 
 
 
@@ -136,7 +139,10 @@ document.getElementById("rreset1").addEventListener("click", function(){
     myBox1.style.right = "225px";
     imgss1.style.height ="100%";
     imgss1.style.width ="100%";
-})
+    myTop1 = 270;
+    myright1 = 225;
+    myimg1 = 100;
+});
 
 
 document.getElementById("bup1").addEventListener("click", function () {
@@ -206,7 +212,10 @@ document.getElementById("breset1").addEventListener("click", function(){
     myBox2.style.left = "690px";
     imgss2.style.height ="100%";
     imgss2.style.width ="100%";
-})
+    myTop = 270;
+    myleft = 225;
+    myimg = 100;
+});
 
 
 document.getElementById("tup1").addEventListener("click", function () {
@@ -276,6 +285,9 @@ document.getElementById("treset1").addEventListener("click", function(){
     myBox3.style.left = "690px";
     imgss3.style.height ="100%";
     imgss3.style.width ="100%";
+    myTop3 = 170;
+    myleft3 = 690;
+    myimg3 = 100;
 })
 
 
